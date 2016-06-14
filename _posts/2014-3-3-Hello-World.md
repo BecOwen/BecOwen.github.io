@@ -1,5 +1,12 @@
 ---
 layout: post
+title: First post
+---
+
+This is my first post
+
+---
+layout: post
 title: You're up and running!
 ---
 
